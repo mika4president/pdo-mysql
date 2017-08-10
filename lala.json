@@ -1,0 +1,74 @@
+[
+    {
+        "devID": "0",
+        "name": "Yet Another Wookie",
+        "favorite": "True",
+        "species": "Intergalatical biped",
+        "skills": "hidden",
+        "level": 411,
+        "link": "notmichel.php",
+        "bio": "Probably <i><b>not<\/b><\/i> the droid you are looking for",
+        "image": "wookie001.png",
+        "location": "51.5659238, 4.4683855"
+    },
+    {
+        "devID": "1",
+        "name": "Michel Kapelle",
+        "favorite": "True",
+        "species": "Developer",
+        "skills": "PHP, OOP, MySQL, Linux",
+        "level": 1403,
+        "link": "michel.php",
+        "bio": "Despite a fearsome appearance and temperamental disposition, Wookiees are very intelligent and are very adept at handling advanced technology.",
+        "image": "michel.png",
+        "location": "51.5659238, 4.4683855"
+    },
+    {
+        "devID": "2",
+        "name": "Wookie Monster",
+        "favorite": "False",
+        "species": "Bastard (Mix)",
+        "skills": "PHP",
+        "level": 209,
+        "link": "notmichel.php",
+        "bio": "Will work for cookies!",
+        "image": "wookiemonster.png",
+        "location": "51.5659238, 4.4683855"
+    },
+    {
+        "devID": "3",
+        "name": "Jar Jar Binks",
+        "favorite": "False",
+        "species": "GunGang",
+        "skills": "Scuse me, me no idea what me doing here!",
+        "level": 109,
+        "link": "notmichel.php",
+        "bio": "Brings humor to the team.",
+        "image": "jarjar.png",
+        "location": "51.5659238, 5.4683855"
+    },
+    {
+        "devID": "4",
+        "name": "R2-D2",
+        "favorite": "False",
+        "species": "Astromech droid",
+        "skills": "Javascript Wizard",
+        "level": 80,
+        "link": "R2-D2.php",
+        "bio": "Your robotic Developer, can it be SuperBrave?",
+        "image": "r2d2.png",
+        "location": "51.9659238, 4.4683855"
+    },
+    {
+        "devID": "5",
+        "name": "Chewbacca",
+        "favorite": "False",
+        "species": "Intergalatical biped",
+        "skills": "PHP",
+        "level": 49,
+        "link": "chewwie.php",
+        "bio": "True multitasker, can fly Millennium Falcon AND fire at will ",
+        "image": "wookie002.png",
+        "location": "51.5659238, 4.4683855"
+    }
+]
